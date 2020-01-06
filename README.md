@@ -11,8 +11,6 @@
 
 ## Project Structure and File Descriptions
 
-### Files
-
 - **PRAC2.ipynb**: This file contains the code with Jupyter Notebook format.
 
 - **PRAC2.html**: This file contains the Jupyters Notebook executed code.
